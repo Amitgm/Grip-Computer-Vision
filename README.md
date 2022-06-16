@@ -5,7 +5,9 @@ These are various Computer vision tasks from the Sparks Foundation Computer-visi
 The following tasks are:
 
 Social Distancing detector
+
 Detection of face mask
+
 Colour Identification in Images
 
 
